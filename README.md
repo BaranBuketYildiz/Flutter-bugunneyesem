@@ -25,7 +25,6 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 
 
 2. Bu projeyi klonlayın:
-
    ```bash
  `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
 
