@@ -23,6 +23,7 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 
 1. Flutter SDK'yı kurun: https://flutter.dev/docs/get-started/install
  2. Bu depoyu klonlayın:
+ 
  ```bash 
  `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
 
