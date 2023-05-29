@@ -25,13 +25,16 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 2. Bu depoyu klonlayın:
  ```bash 
  `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
-4. Proje dizinine gidin: 
+
+3. Proje dizinine gidin: 
 ```bash
 `cd bugunneyesem`
-5. Bağımlılıkları yükleyin: 
+
+4. Bağımlılıkları yükleyin: 
 ```bash
 `flutter pub get`
-6. Uygulamayı çalıştırın: 
+
+5. Uygulamayı çalıştırın: 
 ```bash
 `flutter run`
 
