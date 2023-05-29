@@ -22,10 +22,18 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 ## Nasıl Çalıştırılır?
 
 1. Flutter SDK'yı kurun: https://flutter.dev/docs/get-started/install
-2. Bu depoyu klonlayın: `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
-3. Proje dizinine gidin: `cd bugunneyesem`
-4. Bağımlılıkları yükleyin: `flutter pub get`
-5. Uygulamayı çalıştırın: `flutter run`
+2. Bu depoyu klonlayın:
+ ```bash 
+ `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
+4. Proje dizinine gidin: 
+```bash
+`cd bugunneyesem`
+5. Bağımlılıkları yükleyin: 
+```bash
+`flutter pub get`
+6. Uygulamayı çalıştırın: 
+```bash
+`flutter run`
 
 ## Katkıda Bulunma
 
