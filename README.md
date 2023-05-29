@@ -43,3 +43,7 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
    ```bash
    flutter run
 
+
+Umarım bu README.md dosyası sizin için yeterli olmuştur. İyi çalışmalar!
+
+
