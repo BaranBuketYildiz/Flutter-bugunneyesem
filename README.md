@@ -22,8 +22,8 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 ## Nasıl Çalıştırılır?
 
 1. Flutter SDK'yı kurun: https://flutter.dev/docs/get-started/install
-2. Bu depoyu klonlayın: `git clone https://github.com/KullaniciAdi/YemekUygulamasi.git`
-3. Proje dizinine gidin: `cd YemekUygulamasi`
+2. Bu depoyu klonlayın: `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
+3. Proje dizinine gidin: `cd bugunneyesem`
 4. Bağımlılıkları yükleyin: `flutter pub get`
 5. Uygulamayı çalıştırın: `flutter run`
 
