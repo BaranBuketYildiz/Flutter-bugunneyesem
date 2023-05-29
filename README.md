@@ -26,6 +26,17 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
  ```bash 
  `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
  
+2. Bu depoyu klonlayın:
+ ```bash 
+ `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
+ 
+2. Bu depoyu klonlayın:
+ ```bash 
+ `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
+ 
+ 2. Bu depoyu klonlayın:
+ ```bash 
+ `git clone https://github.com/BaranBuketYildiz/Flutter-bugunneyesem.git`
 
 3. Proje dizinine gidin: 
 ```bash
@@ -38,11 +49,3 @@ Bu uygulama aşağıdaki Flutter paketlerini kullanmaktadır:
 5. Uygulamayı çalıştırın: 
 ```bash
 `flutter run`
-
-## Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin. Her türlü katkı ve öneriye açığız!
-
-## Lisans
-
-Bu projenin lisansı MIT lisansı altında sunulmaktadır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
